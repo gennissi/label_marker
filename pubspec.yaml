@@ -12,7 +12,8 @@ dependencies:
     sdk: flutter
   google_maps_flutter:
     git:
-      url: https://github.com/flutter/plugins.git
+      url: https://github.com/Milvintsiss/plugins.git
+      ref: localdev
       path: packages/google_maps_flutter/google_maps_flutter
 
 dev_dependencies:
